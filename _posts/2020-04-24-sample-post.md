@@ -1,7 +1,7 @@
 ---
 title: hpandro(Logs challenges)
 layout: post
-post-image: "Joker-Bot.github.io/assets/images/hplogo.png"
+post-image: "https://external-preview.redd.it/szj2h-9XdUkA7nDESrcXB65Wul6ByjXxQiMFz1psRdY.jpg?auto=webp&s=055f8158cd9c4ab98f7d59d5a1fa76c9d35ae2b7"
 description: 
 Challenge Link : "https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity"
 
