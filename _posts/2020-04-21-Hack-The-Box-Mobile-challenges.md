@@ -1,7 +1,7 @@
 ---
 title: Hack The Box Mobile challenges
 layout: post
-post-image: "https://github.com/Joker-Bot/Joker-Bot.github.io/blob/master/assets/images/HTB.png"
+post-image: "/assets/images/HTB.png"
 description: Jekyll is a static site generator. You give it text written in your favorite
   markup language and it uses layouts to create a static website.
 tags:
