@@ -1,7 +1,7 @@
 ---
 title: hpandro(Logs challenges)
 layout: post
-post-image: "https://raw.githubusercontent.com/RavikumarRamesh/hpAndro1337/main/Android%20AppSec%20(Kotlin)/img/logo.png"
+post-image: "Joker-Bot.github.io/assets/images/hplogo.png"
 description: 
 Challenge Link : "https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity"
 tags:
